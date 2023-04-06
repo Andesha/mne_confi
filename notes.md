@@ -16,15 +16,15 @@ A significant amount of documentation in the MNE universe centers around computi
 
 1. Initialize your data
 2. Clean your data with whatever method you like
-  - ICA, manual review, etc
+    - ICA, manual review, etc
 3. Epoch your data based on your paradigm
-  - Make sure your events are labeled, i.e. go vs no-go
+    - Make sure your events are labeled, i.e. go vs no-go
 4. Save your epoched data
 5. Specify the study design to MNE-Confi
-  - Which type of comparison?
-    - ERP or ERSP?
-  - Study-wide sampling?
-  - File paths
+    - Which type of comparison?
+      - ERP or ERSP?
+    - Study-wide sampling?
+    - File paths
 6. Validate procedure before running
   - Make sure you have selected the correct settings
   - Confirm file paths
